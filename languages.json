@@ -1137,6 +1137,11 @@
       ],
       "filenames": ["sconstruct", "sconscript"]
     },
+    "Smalltalk": {
+      "name": "Smalltalk",
+      "multi_line_comments": [["\\\"", "\\\""]],
+      "quotes": [["'", "'"]],
+      "extensions": ["st"]
     "Sml": {
       "name": "Standard ML (SML)",
       "quotes": [["\\\"", "\\\""]],
